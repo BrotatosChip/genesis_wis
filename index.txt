@@ -1,0 +1,270 @@
+Genesis - Tryna win the 2024 school fair!
+
+
+
+#---------- HEADER ----------#
+
+Genesis
+
+Home
+About Us
+Shop
+Blog
+Contact Us
+
+aria-label = Search
+<ion-icon name="search-outline"></ion-icon>
+
+Reservation
+
+aria-label = Toggle Menu
+
+
+
+#---------- SEARCH BOX ----------#
+
+aria-label = Cancel search
+<ion-icon name="close-outline"></ion-icon>
+
+aria-label = Search here
+placeholder = Type keywords here...
+
+aria-label = Submit search
+<ion-icon name="search-outline"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+Taste Tomorrow Today
+
+Not available for order yet!
+
+We will start on Feb 24-25 2025
+
+Not available
+
+alt = Logo
+
+
+
+#---------- PROMO ----------#
+
+Maincourse
+
+Make by our chef and barista: Nhoulita, Neath, Kasing, VireakBoth, Pech, Hengleang, Ratanak, Pisey, Vortey, Napha, Thekor, Dora
+Drinks
+
+Appetizers
+
+Desserts
+
+Combo sets
+
+
+
+#---------- ABOUT ----------#
+
+alt = Combo set
+
+alt = See you soon
+
+Taste Tomorrow Today!
+
+At Genesis Food Fair Group, we are dedicated to offering top-quality food products and exceptional service. Our mission is to enhance your culinary experiences with a diverse range of premium ingredients, from fresh produce to gourmet specialties.
+<ion-icon name="checkmark-outline"></ion-icon>
+Delicious & Healthy Foods
+
+We love kids
+
+Hygiene
+
+Fastest Food Delivery
+
+Order Now
+
+
+
+#---------- FOOD MENU ----------#
+
+Popular Dishes
+
+Our Delicious Foods
+
+Food is any substance consumed to provide nutritional support for an organism.
+
+All
+Maincourse
+Appetizers
+Desserts
+Drinks
+
+alt = Bai srob
+
+
+Not available
+
+Maincourse
+
+<ion-icon name="star"></ion-icon>
+
+Bai srob
+
+Price:
+$XX.00
+
+
+
+alt = Focal Chilli
+
+
+
+Maincourse
+ 
+Focal Chilli
+
+$XX.00
+
+alt = Jacket Potato
+
+
+Appetizers 
+
+Jacket Potato
+
+$XX.00
+
+alt = Menbosha
+
+
+Appetizers 
+ 
+Menbosha
+
+$XX.00
+
+alt = Mandu
+
+
+Appetizers 
+
+Mandu
+
+$XX.00
+
+alt = Onigiri
+
+Appetizers 
+
+Onigiri
+
+$XX.00
+
+
+
+#---------- CTA ----------#
+
+Taste Tomorrow Today!
+
+At Genesis Food Fair Group, we are dedicated to offering top-quality food products and exceptional service. Our mission is to enhance your culinary experiences with a diverse range of premium ingredients, from fresh produce to gourmet specialties.
+Order Now
+
+alt = Burger
+
+alt = get up to 50% off now
+
+
+
+#---------- DELIVERY ----------#
+
+A Moments Of Delivered On Right Time & Stall
+
+Fast as fuck boi!!
+
+Not available
+
+alt = clouds
+
+alt = delivery boy
+
+
+
+#---------- BANNER ----------#
+
+alt = Combo set 1!
+
+GET IT Now!
+
+Combo set 2!
+
+Finger licking good
+
+Order Now
+
+Combo set 3
+
+Try this mixture of flavor
+
+Taste the flavor of future
+
+Get it now!!!
+
+Stamp card
+
+complete this stamp card for
+
+
+
+#---------- BLOG ----------#
+
+Latest Blog Posts
+
+This Is All About Foods
+
+Food is any substance consumed to provide nutritional support for an organism.
+
+alt = What Do You Think About Bai srob Recipes?
+
+Bai Srob
+
+<ion-icon name="calendar-outline"></ion-icon>
+Feb 31 2025
+
+<ion-icon name="person-outline"></ion-icon>
+Nhou Lita
+
+What Do You Think About Noodle Recipes?
+
+Financial experts support or help you to to find out which way you can raise your funds more...
+
+Read More
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+alt = Making Tiramisu With New Delicious Ingridents.
+
+Tiramisu
+
+alt = Try our tiramisu cake now!!!
+Tiramisu
+
+
+
+#---------- FOOTER ----------#
+
+Genesis
+
+Financial experts support or help you to to find out which way you can raise your funds more.
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+
+Contact Info
+
+IG: Genesis.wis
+
+wis stadium, khan sensok, phnom penh thmei
+
+
+#---------- BACK TO TOP ----------#
